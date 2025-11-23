@@ -1,4 +1,4 @@
-#Healthcare Data Science Project – Bhutan
+# Healthcare Data Science Project – Bhutan
 
 A Python-based data science workflow for analyzing healthcare data relevant to Bhutan, supported by a Streamlit application for interactive visualization and model inference.
 
