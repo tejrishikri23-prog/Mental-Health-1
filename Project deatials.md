@@ -4,7 +4,7 @@ A Python-based data science workflow for analyzing healthcare data relevant to B
 
 This project is designed as a template that guides users through data acquisition, preprocessing, exploratory data analysis (EDA), feature engineering, machine learning modeling, and deployment of a Streamlit application.
 
-##1. Project Objectives
+## 1. Project Objectives
 
 Analyze healthcare data focused on Bhutan (e.g., disease prevalence, hospital admissions, health indicators, demographic trends).
 
@@ -55,6 +55,8 @@ World Bank Health Indicators
 Kaggle public datasets related to South Asian health metrics
 
 All files should be placed in data/raw/.
+Download data set from https://data.humdata.org/dataset/who-data-for-btn
+
 
 ## 4. Environment Setup
 ### 4.1 Python Version
